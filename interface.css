@@ -1,0 +1,16 @@
+div.overlayOpen{
+	background-color: black;
+	color: white;
+	width: 500px;
+	height: 500px;
+}
+div.gameInitial{
+	background-color: gray;
+	color: black;
+	width: 500px;
+	height: 500px;
+}
+span.continue{
+	background-color: grey;
+	color: black;
+}
